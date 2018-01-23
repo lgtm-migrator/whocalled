@@ -1,0 +1,32 @@
+{
+  "name": "whocalled",
+  "version": "1.0.0",
+  "description": "Get the calling file and line number for logging in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drazisil/whocalled.git"
+  },
+  "keywords": [
+    "logging",
+    "line",
+    "numbers",
+    "callee",
+    "caller",
+    "stack"
+  ],
+  "author": "Joseph W Becher <jwbecher@drazisil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drazisil/whocalled/issues"
+  },
+  "homepage": "https://github.com/drazisil/whocalled#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
