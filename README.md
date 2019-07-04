@@ -1,6 +1,6 @@
 # whocalled
 
-[![CircleCI](https://circleci.com/gh/drazisil/whocalled.svg?style=shield)](https://circleci.com/gh/drazisil/whocalled)
+[![CircleCI](https://circleci.com/gh/drazisil/whocalled.svg?style=shield)](https://circleci.com/gh/drazisil/whocalled) [![Greenkeeper badge](https://badges.greenkeeper.io/drazisil/whocalled.svg)](https://greenkeeper.io/)
 
 Get the calling file and line number for logging in NodeJS
 
