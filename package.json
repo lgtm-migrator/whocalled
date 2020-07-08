@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/drazisil/whocalled#readme",
   "devDependencies": {
-    "eslint": "^6.0.1",
-    "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.11.0",
-    "jest": "^24.8.0"
+    "eslint": "7.4.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "2.22.0",
+    "jest": "26.1.0"
   },
   "dependencies": {}
 }
